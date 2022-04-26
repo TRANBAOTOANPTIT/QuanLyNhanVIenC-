@@ -1,0 +1,3 @@
+D:\AT CSDL\lab03-C#-tranbaotoan\lab03\bin\Debug\lab03.exe.config
+D:\AT CSDL\lab03-C#-tranbaotoan\lab03\obj\Debug\lab03.exe
+D:\AT CSDL\lab03-C#-tranbaotoan\lab03\obj\Debug\lab03.pdb
